@@ -1,0 +1,77 @@
+body{
+    box-sizing: border-box;
+}
+
+#main-nav{
+    background-color: #264059;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    font-weight: 700;
+    
+    
+}
+
+
+#main-nav .navbar-brand {
+    color: #fff;
+    font-size: 1.75rem;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: #00D1A4;
+}
+.profile{
+    background-color: #00D1A4;
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+.profile-avatar{
+    width: 15rem;
+}.profile-heading{
+    font-size: 4rem;
+}
+.profile-subheading{
+    font-size: 1.5rem;
+}
+.page-section{
+    padding: 6rem;
+}
+.page-section-heading{
+    font-size: 3rem;
+}
+.img-portfolio{
+    border-radius: 8px;
+}
+
+#about{
+    background-color: #00D1A4;
+}
+.about-p{
+    font-size: 18px;
+    font-weight: 400;
+}
+.btn-xl{
+    padding: 1rem 1.75rem;
+    font-size: 1.25rem;
+}
+.footer{
+    background-color: #264059;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    color: #fff;
+}
+.footer-a{
+    color: #00D1A4;
+}
+.footer-a:hover{
+    color: #05a986
+}
+.lead{
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+.copyright {
+    background-color: #1a252f;
+}
